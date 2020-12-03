@@ -1,3 +1,5 @@
+Fork to complete [Apollo tutorial](http://apollographql.com/docs/tutorial/introduction.html) for the Profusion 2020/21 Summer Internship.
+
 # Apollo tutorial
 
 This is the fullstack app for the [Apollo tutorial](http://apollographql.com/docs/tutorial/introduction.html). 🚀
